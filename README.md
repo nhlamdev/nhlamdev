@@ -32,18 +32,6 @@ Let's connect and embark on this exciting journey together!
     <img src="https://github-readme-stats.vercel.app/api?      
     username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?      
-    username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?      
-    username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-   
-
-   
-</div>
 
 
 <h1 align="center">
