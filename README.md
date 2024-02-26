@@ -38,8 +38,3 @@ Let's connect and embark on this exciting journey together!
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
-
-<h1 align="center">
-   ♨️ Quote ♨️
-</h1>
-_"Code your way to the future with passion and perseverance!."
