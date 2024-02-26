@@ -36,6 +36,6 @@ Let's connect and embark on this exciting journey together!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h1 align="center">
-   🔥 Quote 🔥
+   ♨️ Quote ♨️
 </h1>
 _"Code your way to the future with passion and perseverance!."
