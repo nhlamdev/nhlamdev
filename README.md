@@ -28,9 +28,11 @@ Let's connect and embark on this exciting journey together!
 <h1 align="center">
    🔥 GitHub Status 🔥
 </h1>
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?      
-    username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=nhlamdev&theme=react&hide_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?      
+    username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 
