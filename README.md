@@ -30,9 +30,8 @@ Let's connect and embark on this exciting journey together!
 </h1>
 
 <div align="center">
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=nhlamdev&theme=react&hide_border=false)<br/>
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?      
-    username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nhlamdev&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/? username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 
