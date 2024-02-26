@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫Summary :
 👋 Hello there! I'm [Your Name], a passionate programmer on a journey of constant growth and exploration in the ever-evolving realm of technology.
 
 🚀 With a fervent desire to expand my horizons, I immerse myself in learning about the latest and most exciting advancements in the tech world.
