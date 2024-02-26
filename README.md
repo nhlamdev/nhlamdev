@@ -1,5 +1,5 @@
 <p align="center" fontsiz >
-   #💫 Summary 💫
+#💫 Summary 💫
 </p>
 
 👋 Hello there! I'm [Your Name], a passionate programmer on a journey of constant growth and exploration in the ever-evolving realm of technology.
