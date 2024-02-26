@@ -29,11 +29,24 @@ Let's connect and embark on this exciting journey together!
    🔥 GitHub Status 🔥
 </h1>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?      
+    username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </div>
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nhlamdev&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?      
+    username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?      
+    username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+   
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhlamdev&theme=react&hide_border=false" alt="GitHub Streak Stats">
+   
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/? 
+    username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+   
+</div>
 
 <h1 align="center">
    ♨️ Quote ♨️
