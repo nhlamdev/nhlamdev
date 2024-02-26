@@ -1,6 +1,6 @@
-<p align="center" fontsiz >
-#💫 Summary 💫
-</p>
+<h1 align="center" fontsiz >
+💫 Summary 💫
+</h1>
 
 👋 Hello there! I'm [Your Name], a passionate programmer on a journey of constant growth and exploration in the ever-evolving realm of technology.
 
