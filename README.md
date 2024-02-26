@@ -1,8 +1,8 @@
-<h1 align="center" fontsiz >
+<h1 align="center">
 💫 Summary 💫
 </h1>
 
-👋 Hello there! I'm [Your Name], a passionate programmer on a journey of constant growth and exploration in the ever-evolving realm of technology.
+👋 Hello there! I'm Nguyen Hoang Lam, a passionate programmer on a journey of constant growth and exploration in the ever-evolving realm of technology.
 
 🚀 With a fervent desire to expand my horizons, I immerse myself in learning about the latest and most exciting advancements in the tech world.
 
