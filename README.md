@@ -28,8 +28,10 @@ Let's connect and embark on this exciting journey together!
 <h1 align="center">
    🔥 GitHub Status 🔥
 </h1>
-
-![](https://github-readme-stats.vercel.app/api?username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+</div>
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nhlamdev&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhlamdev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
