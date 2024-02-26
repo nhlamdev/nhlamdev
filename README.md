@@ -12,7 +12,7 @@ Let's connect and embark on this exciting journey together!
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100034051461938) 
 
-# 🚀technical skills🚀‾‾
+# 🚀technical skills<span style="transform: scaleX(-1); display: inline-block;">🚀</span>🚀‾‾
 <p align="center">
     <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
 </p>
