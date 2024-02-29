@@ -16,7 +16,7 @@ Let's connect and embark on this exciting journey together!
    🔔 Socials 🔔
 </h1>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100034051461938) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100034051461938) 
 
 <h1 align="center">
    🛠 technical skills 🛠
