@@ -1,18 +1,4 @@
 <h1 align="center">
-💫 Summary 💫
-</h1>
-
-👋 Hello there! I'm Nguyen Hoang Lam, a passionate programmer on a journey of constant growth and exploration in the ever-evolving realm of technology.
-
-🚀 With a fervent desire to expand my horizons, I immerse myself in learning about the latest and most exciting advancements in the tech world.
-
-💡 Always seeking new challenges, I thrive in engaging debates and discussions, embracing different perspectives with an open mind.
-
-💻 As a developer, I am committed to honing my skills, pushing boundaries, and contributing to innovative projects that make a difference.
-
-Let's connect and embark on this exciting journey together!
-
-<h1 align="center">
    🔔 Socials 🔔
 </h1>
 
